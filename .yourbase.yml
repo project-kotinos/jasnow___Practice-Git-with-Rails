@@ -12,3 +12,4 @@ ci:
 dependencies:
   build:
   - ruby:2.7.0-preview1
+  - node:10.15.1
